@@ -1,0 +1,13 @@
+C:\Users\Nicolas\Desktop\SistemaWeb\Facturacion\Business\bin\Debug\Business.dll
+C:\Users\Nicolas\Desktop\SistemaWeb\Facturacion\Business\bin\Debug\Business.pdb
+C:\Users\Nicolas\Desktop\SistemaWeb\Facturacion\Business\bin\Debug\Clients.dll
+C:\Users\Nicolas\Desktop\SistemaWeb\Facturacion\Business\bin\Debug\Entity.dll
+C:\Users\Nicolas\Desktop\SistemaWeb\Facturacion\Business\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Nicolas\Desktop\SistemaWeb\Facturacion\Business\bin\Debug\Clients.pdb
+C:\Users\Nicolas\Desktop\SistemaWeb\Facturacion\Business\bin\Debug\Entity.pdb
+C:\Users\Nicolas\Desktop\SistemaWeb\Facturacion\Business\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Nicolas\Desktop\SistemaWeb\Facturacion\Business\obj\Debug\Business.csproj.AssemblyReference.cache
+C:\Users\Nicolas\Desktop\SistemaWeb\Facturacion\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas\Desktop\SistemaWeb\Facturacion\Business\obj\Debug\Business.csproj.Up2Date
+C:\Users\Nicolas\Desktop\SistemaWeb\Facturacion\Business\obj\Debug\Business.dll
+C:\Users\Nicolas\Desktop\SistemaWeb\Facturacion\Business\obj\Debug\Business.pdb
